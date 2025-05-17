@@ -28,7 +28,15 @@
 ## Kontakt
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gianni-randone/)
 <!-- Website: [Persönliche Website](giannirandone.de) -->
-
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
 
 
 
